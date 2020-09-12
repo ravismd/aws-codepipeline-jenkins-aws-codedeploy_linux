@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-gem 'haml'
+
 require 'rake/testtask'
 require 'rubygems'
 require 'rake'
