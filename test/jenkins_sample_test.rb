@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-
+gem 'haml' 
 require 'net/http'
 require 'minitest/autorun'
 require 'socket'
